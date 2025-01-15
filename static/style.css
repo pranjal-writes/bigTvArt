@@ -704,6 +704,7 @@ body {
     width: 400px;
     display: flex;
     flex-direction: column;
+    gap: 24px;
     margin-top: 15%;
 }
 
